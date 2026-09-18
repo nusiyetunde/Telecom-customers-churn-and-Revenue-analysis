@@ -43,6 +43,10 @@ Key areas include:
 - Customer tenure
 - Contract type
 
+<img width="564" height="319" alt="Screenshot 2026-09-18 053359" src="https://github.com/user-attachments/assets/9d9b0ff8-e8ef-473d-baaa-46071c540bdd" />
+
+
+
 ### Dashboard 2 – Customer & Service Churn
 
 This dashboard analyses customer churn and identifies service and contract characteristics associated with higher churn.
@@ -57,6 +61,9 @@ Key areas include:
 - Churn by technical support
 - Churn across other service categories
 
+  <img width="560" height="316" alt="Screenshot 2026-09-18 054027" src="https://github.com/user-attachments/assets/33d222ac-fee9-4e3d-aa1a-4d85d2abe93c" />
+
+
 ### Dashboard 3 – Revenue Analysis
 
 This dashboard analyses revenue performance and the financial impact of customer churn.
@@ -68,6 +75,10 @@ Key visuals include:
 - Customer Distribution by Tenure Group
 - Monthly Charges vs Tenure by Churn
 - Total Charges by Contract
+
+
+<img width="556" height="311" alt="Screenshot 2026-09-18 054303" src="https://github.com/user-attachments/assets/ccdbc3de-3697-47bf-a72d-676808b978c2" />
+
 
 ## Key Findings
 
